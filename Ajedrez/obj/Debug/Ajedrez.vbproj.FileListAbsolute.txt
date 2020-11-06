@@ -1,0 +1,12 @@
+C:\Users\Peret\source\repos\Ajedrez\Ajedrez\bin\Debug\Ajedrez.exe.config
+C:\Users\Peret\source\repos\Ajedrez\Ajedrez\bin\Debug\Ajedrez.exe
+C:\Users\Peret\source\repos\Ajedrez\Ajedrez\bin\Debug\Ajedrez.pdb
+C:\Users\Peret\source\repos\Ajedrez\Ajedrez\bin\Debug\Ajedrez.xml
+C:\Users\Peret\source\repos\Ajedrez\Ajedrez\obj\Debug\Ajedrez.vbprojAssemblyReference.cache
+C:\Users\Peret\source\repos\Ajedrez\Ajedrez\obj\Debug\Ajedrez.Resources.resources
+C:\Users\Peret\source\repos\Ajedrez\Ajedrez\obj\Debug\Ajedrez.vbproj.GenerateResource.cache
+C:\Users\Peret\source\repos\Ajedrez\Ajedrez\obj\Debug\Ajedrez.vbproj.CoreCompileInputs.cache
+C:\Users\Peret\source\repos\Ajedrez\Ajedrez\obj\Debug\Ajedrez.exe
+C:\Users\Peret\source\repos\Ajedrez\Ajedrez\obj\Debug\Ajedrez.xml
+C:\Users\Peret\source\repos\Ajedrez\Ajedrez\obj\Debug\Ajedrez.pdb
+C:\Users\Peret\source\repos\Ajedrez\Ajedrez\obj\Debug\Ajedrez.Ventana.resources
