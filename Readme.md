@@ -1,11 +1,11 @@
-#INSTALACIÓ
+# INSTALACIÓ
 
 Per a instal·lar l'escacs, 
- - Descarrega primer l'arxiu comprimit del repositori
+ - Descarrega primer l'arxiu comprimit "Escacs" del repositori
  - Descomprimeix-lo
  - Executa el .exe
 
-#FUNCIONAMENT
+# FUNCIONAMENT
 
 És bastant simple!
 Només clica a una peça i després a una casella a la que pugui anar per a començar a jugar.
